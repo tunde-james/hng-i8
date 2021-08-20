@@ -11,5 +11,17 @@
 .copyright {
   display: flex;
   justify-content: space-between;
-  font-size: 1rem
+  font-size: 1rem;
+
+  .footer__logo {
+    margin: 0 auto;
+  }
+
+  .footer__link {
+    display: inline-block;
+    text-decoration: none;
+    color: $color-secondary;
+    text-align: center;
+    margin-top: 0.5em;
+  }
 }

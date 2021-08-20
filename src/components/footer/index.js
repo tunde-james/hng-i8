@@ -13,13 +13,21 @@ Footer.Copyright = function Copyright({ children }) {
   return <div className="copyright">{children}</div>
 }
 
+Footer.Div = function Div({ children }) {
+  return <div>{children}</div>
+}
+
 Footer.Text = function Text({ children }) {
   return <p className="copyright-text">{children}</p>
 }
 
+Footer.Link = function Link({ children, ...restProps }) {
+  return <a {...restProps} className="footer__link">{children}</a>
+}
+
 Footer.Logo = function Logo({ ...restProps }) {
   // eslint-disable-next-line jsx-a11y/alt-text
-  return <img {...restProps} />
+  return <img {...restProps} className="footer__logo" />
 }
 
 export default Footer

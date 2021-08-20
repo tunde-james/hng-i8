@@ -7,12 +7,17 @@ function FooterContainer({ children }) {
       <Footer.Container>
         <Footer.Copyright>
           <Footer.Text>&copy; Tunde James</Footer.Text>
-          <Footer.Logo
-            width="70"
-            height="70"
-            src="/images/hng.jpg"
-            alt="hng logo"
-          />
+          <Footer.Div>
+            <Footer.Logo
+              width="70"
+              height="70"
+              src="/images/hng.jpg"
+              alt="hng logo"
+            />
+            <Footer.Link href="https://training.zuri.team/" target="_blanck">
+              Zuri Training
+            </Footer.Link>
+          </Footer.Div>
         </Footer.Copyright>
       </Footer.Container>
     </Footer>
