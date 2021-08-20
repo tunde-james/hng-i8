@@ -1,6 +1,6 @@
-# Netflix-clone
+# Tunde James Resume
 
-https://user-images.githubusercontent.com/59791126/130168487-b0b48a16-ab87-4b9c-b745-c35335e22667.gif
+![Demo](https://user-images.githubusercontent.com/59791126/130168487-b0b48a16-ab87-4b9c-b745-c35335e22667.gif)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
