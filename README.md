@@ -17,12 +17,10 @@ The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
 ### `web technologies used`
+
 The following web technologies were used for this project
 
 JavaScript
 React JS Library
 SASS
-
-
-
-
+React-Icons
