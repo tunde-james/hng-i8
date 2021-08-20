@@ -1,0 +1,22 @@
+$color-primary: #0C3860;
+$color-secondary: #B8A795;
+$color-tertiary: #000;
+
+$font-raleway: 'Raleway', sans-serif;
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+    font-family: $font-raleway;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
