@@ -1,5 +1,7 @@
 # Netflix-clone
 
+https://user-images.githubusercontent.com/59791126/130168487-b0b48a16-ab87-4b9c-b745-c35335e22667.gif
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -19,13 +21,8 @@ The following web technologies were used for this project
 
 JavaScript
 React JS Library
-React Router
-Styled Components
-Fuse JS
-Firebase
+SASS
 
-### `Important Note`
-This is not the official Netflix website, this is just me arming my React JS
-skills by building projects. Thanks.
+
 
 
